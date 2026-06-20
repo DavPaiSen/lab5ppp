@@ -1,4 +1,4 @@
-package ex1;
+package ex2;
 
 public class BoletoPagamento implements PagamentoStrategy{
     public void pagar(double total) {
