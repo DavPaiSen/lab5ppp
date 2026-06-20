@@ -1,5 +1,3 @@
-package ex1;
-
 public class Main {
     public static void main(String[] args) {
         CarrinhoCompras carrinhoCompras = new CarrinhoCompras(new PixPagamento());

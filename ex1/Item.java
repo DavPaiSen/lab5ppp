@@ -1,5 +1,3 @@
-package ex1;
-
 public class Item {
     public double preco;
     public Item(double preco) {
